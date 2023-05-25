@@ -1,3 +1,3 @@
 # TidyTuesdayWeek19
 
-![TidyWeek19](https://github.com/nvietto/TidyTuesdayWeek19/assets/74371363/8e186f7a-9353-4c95-8354-f4d71a8fc745)
+![TidyTuesdayWeek19](https://github.com/nvietto/TidyTuesday/assets/74371363/2068530c-b205-465e-ab9d-d72ebeda7169)
