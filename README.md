@@ -1,4 +1,4 @@
-# tidytuesday data challenge
+# TidyTuesday data challenge
 
 This repository contain my contributions to the #tidytuesday data visualization challenge
 
