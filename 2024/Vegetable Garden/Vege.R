@@ -53,7 +53,6 @@ plot$image <- paste0("images/", plot$vegetable, ".png")
 
 plot |> ggplot(aes(x = n, y = reorder(vegetable, + n), fill = n)) +
   geom_bar(stat = "identity") +
-  theme_minimal() +
   geom_image(aes(image = image),
              size = 0.05, 
              asp = 1.5) +
