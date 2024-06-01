@@ -1,8 +1,4 @@
-# TidyTuesday Data Challenge 
 
-This repository contain my contributions to the #tidytuesday data visualization challenge
-
-Learn more [here](https://github.com/rfordatascience/tidytuesday)
 
 # Global Surface Temperatures
 ![Week28](https://github.com/nvietto/TidyTuesday/assets/74371363/527e3aab-ca0b-4e34-830f-b80b8ab3ed1e)
