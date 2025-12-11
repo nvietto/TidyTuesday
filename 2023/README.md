@@ -28,3 +28,6 @@
 # [The Portal Project](https://github.com/nvietto/TidyTuesday/blob/main/2023/Week18/TidyTuesdayWeek18.R)
 
 ![TidyTuesdayWeek18](https://github.com/nvietto/nvietto/assets/74371363/ad3bf294-d9a0-4195-b77d-a4d47d33fa7d)
+
+# [The London Marathon](https://github.com/rfordatascience/tidytuesday/blob/main/data/2023/2023-04-25/readme.md)First TidyTuesday 😊
+![TidyTuesdayWeek18](https://github.com/nvietto/TidyTuesday/blob/main/2023/Week_17/Rplot.png)
